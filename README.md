@@ -35,3 +35,4 @@ Though simple in structure, Tic-Tac-Toe’s strategic depth and universal access
 
 ## OUTPUT:-
 ![Image](https://github.com/user-attachments/assets/ee88b844-7d44-42b3-a04b-944208378cb3)
+![Image](https://github.com/user-attachments/assets/eaa2f52b-32c1-40ae-a938-1fb4d28ce367)
