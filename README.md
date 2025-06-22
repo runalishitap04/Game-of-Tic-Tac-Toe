@@ -32,3 +32,6 @@ From a mathematical and computational point of view, Tic-Tac-Toe is a solved gam
 In the digital world, Tic-Tac-Toe is frequently used in coding tutorials and as an example project for learning programming concepts like loops, conditionals, and user input handling. It also serves as a stepping stone toward developing more complex turn-based games.
 
 Though simple in structure, Tic-Tac-Toe’s strategic depth and universal accessibility have ensured its place in the world of games for centuries. Whether drawn on paper during a classroom break or played as an app, it remains a timeless classic—easy to play, hard to master, and always fun.
+
+## OUTPUT:-
+![Image](https://github.com/user-attachments/assets/ee88b844-7d44-42b3-a04b-944208378cb3)
